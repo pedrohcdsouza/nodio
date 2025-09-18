@@ -1,44 +1,57 @@
 <div align="center">
   
-[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/LemmyNet/lemmy.svg)](https://github.com/LemmyNet/lemmy/releases)
-[![Build Status](https://woodpecker.join-lemmy.org/api/badges/LemmyNet/lemmy/status.svg)](https://woodpecker.join-lemmy.org/LemmyNet/lemmy)
-[![GitHub issues](https://img.shields.io/github/issues-raw/LemmyNet/lemmy.svg)](https://github.com/LemmyNet/lemmy/issues)
-[![Docker Pulls](https://img.shields.io/docker/pulls/dessalines/lemmy.svg)](https://cloud.docker.com/repository/docker/dessalines/lemmy/)
-[![Translation status](http://weblate.join-lemmy.org/widgets/lemmy/-/lemmy/svg-badge.svg)](http://weblate.join-lemmy.org/engage/lemmy/)
-[![License](https://img.shields.io/github/license/LemmyNet/lemmy.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=social)](https://github.com/LemmyNet/lemmy/stargazers)
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/pedrohcdsouza/nodio.svg)](https://github.com/pedrohcdsouza/nodio/releases)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/pedrohcdsouza/nodio/ci.yml?branch=main)](https://github.com/pedrohcdsouza/nodio/actions)
+[![GitHub issues](https://img.shields.io/github/issues-raw/pedrohcdsouza/nodio.svg)](https://github.com/pedrohcdsouza/nodio/issues)
+[![License](https://img.shields.io/github/license/pedrohcdsouza/nodio.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/pedrohcdsouza/nodio?style=social)](https://github.com/pedrohcdsouza/nodio/stargazers)
 
 </div>
 
 <p align="center">
   <span>English</span> |
-  <a href="readmes/README.es.md">Español</a> |
-  <a href="readmes/README.ru.md">Русский</a> |
-  <a href="readmes/README.zh.hans.md">汉语</a> |
-  <a href="readmes/README.zh.hant.md">漢語</a> |
-  <a href="readmes/README.ja.md">日本語</a>
+  <a href="readmes/README.pt.md">Português</a>
 </p>
 
 <p align="center">
-  <a href="https://join-lemmy.org/" rel="noopener">
- <img width=200px height=200px src="https://github.com/pedrohcdsouza/nodio/blob/main/nodio.svg"></a>
-
-  <p align="center">
-    A link aggregator and forum for the fediverse.
-    <br />
-    <br />
-    <a href="https://join-lemmy.org">Join Lemmy</a>
-    ·
-    <a href="https://join-lemmy.org/docs/index.html">Documentation</a>
-    ·
-    <a href="https://matrix.to/#/#lemmy-space:matrix.org">Matrix Chat</a>
-    ·
-    <a href="https://github.com/LemmyNet/lemmy/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/LemmyNet/lemmy/issues">Request Feature</a>
-    ·
-    <a href="https://github.com/LemmyNet/lemmy/blob/main/RELEASES.md">Releases</a>
-    ·
-    <a href="https://join-lemmy.org/docs/code_of_conduct.html">Code of Conduct</a>
-  </p>
+  <a href="https://github.com/pedrohcdsouza/nodio" rel="noopener">
+    <img width=200px height=200px src="https://github.com/pedrohcdsouza/nodio/blob/main/nodio.svg">
+  </a>
 </p>
+
+<p align="center">
+  Version, collaborate, and code from your diagrams
+  <br />
+  <br />
+  <a href="https://github.com/pedrohcdsouza/nodio">Project Page</a>
+  ·
+  <a href="https://github.com/pedrohcdsouza/nodio/wiki">Documentation</a>
+  ·
+  <a href="https://github.com/pedrohcdsouza/nodio/issues">Report Bug</a>
+  ·
+  <a href="https://github.com/pedrohcdsouza/nodio/issues">Request Feature</a>
+  ·
+  <a href="https://github.com/pedrohcdsouza/nodio/releases">Releases</a>
+  ·
+  <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>
+</p>
+
+---
+
+## About the Project  
+
+**Nodio** is similar to tools like [Mermaid](https://mermaid.js.org/) and [Astah UML](https://astah.net/): you create diagrams to model systems, visualize workflows, and design architectures.  
+
+But behind the scenes, it is very different: instead of being static files, your diagrams are **versioned**, connected to **Git repositories**, and can **automatically update parts of your codebase**.  
+
+For development teams, this means a diagram is no longer just documentation — it becomes part of the **development workflow**. A change in the diagram can generate or update code, while every version is tracked and synchronized, just like source code.  
+
+It is an easily **self-hostable**, **developer-friendly** alternative to traditional diagramming tools, designed to integrate directly with your existing projects and repositories.  
+
+Each project using **Nodio** can define its own workflow: whether diagrams should generate boilerplate code, update database schemas, or serve as living documentation that evolves alongside the system.  
+
+---
+
+### Why it’s called Nodio  
+
+Inspired by the concept of **nodes**, the building blocks of diagrams, and the idea of connecting them (and your code) into a **living network**.  
