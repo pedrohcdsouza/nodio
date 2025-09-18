@@ -54,4 +54,13 @@ Each project using **Nodio** can define its own workflow: whether diagrams shoul
 
 ### Why it’s called Nodio  
 
-Inspired by the concept of **nodes**, the building blocks of diagrams, and the idea of connecting them (and your code) into a **living network**.  
+Inspired by the concept of **nodes**, the building blocks of diagrams, and the idea of connecting them (and your code) into a **living network**. 
+
+### Build with
+<div style="display: flex;">
+<img width="48" height="48" src="https://github.com/pedrohcdsouza/nodio/blob/main/icons8-nextjs.svg" />
+<img width="50" height="50" src="https://github.com/pedrohcdsouza/nodio/blob/main/icons8-django.svg" />
+<img width="50" height="50" src="https://github.com/pedrohcdsouza/nodio/blob/main/icons8-postgres.svg" />
+</div>
+
+
