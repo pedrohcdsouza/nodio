@@ -23,17 +23,13 @@
   Version, collaborate, and code from your diagrams
   <br />
   <br />
-  <a href="https://github.com/pedrohcdsouza/nodio">Project Page</a>
-  ·
-  <a href="https://github.com/pedrohcdsouza/nodio/wiki">Documentation</a>
+  <a href="https://github.com/pedrohcdsouza/nodio/docs">Documentation</a>
   ·
   <a href="https://github.com/pedrohcdsouza/nodio/issues">Report Bug</a>
   ·
   <a href="https://github.com/pedrohcdsouza/nodio/issues">Request Feature</a>
   ·
   <a href="https://github.com/pedrohcdsouza/nodio/releases">Releases</a>
-  ·
-  <a href="CODE_OF_CONDUCT.md">Code of Conduct</a>
 </p>
 
 ---
@@ -62,7 +58,4 @@ Inspired by the concept of **nodes**, the building blocks of diagrams, and the i
   <img width="64" height="48" src="https://github.com/pedrohcdsouza/nodio/blob/main/django.svg" />
   <img width="48" height="48" src="https://github.com/pedrohcdsouza/nodio/blob/main/postgres.svg" />
 </div>
-
-
-
 
