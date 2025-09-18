@@ -35,3 +35,20 @@
 </p>
 
 ---
+
+## Project Documentation
+
+Here you will find all diagrams, technical documents, and resources related to the Nodio.
+
+## Summary
+
+| Diagram Type          | Diagram Name                     | Link                                  |
+|----------------------|---------------------------------|--------------------------------------|
+| System Architecture  | System Architecture Diagram       | [View](./system-architecture.png)    |
+| System Architecture  | Deployment Diagram               | [View](./deployment-diagram.svg)     |
+| Database             | ER Diagram                        | [View](./er-diagram.png)             |
+| Database             | Data Flow Diagram                 | [View](./data-flow-diagram.pdf)     |
+| Workflow             | User Registration Flow            | [View](./user-registration-flow.png) |
+| Workflow             | Order Processing Flow             | [View](./order-processing-flow.svg) |
+| UI/UX Mockups        | Home Page Mockup                  | [View](./home-page-mockup.png)       |
+| UI/UX Mockups        | Dashboard Mockup                  | [View](./dashboard-mockup.svg) 
