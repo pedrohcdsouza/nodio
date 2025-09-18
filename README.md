@@ -23,6 +23,8 @@
   Version, collaborate, and code from your diagrams
   <br />
   <br />
+  <a href="https://github.com/pedrohcdsouza/nodio/">Project Page</a>
+  ·
   <a href="https://github.com/pedrohcdsouza/nodio/docs">Documentation</a>
   ·
   <a href="https://github.com/pedrohcdsouza/nodio/issues">Report Bug</a>
