@@ -1,41 +1,42 @@
-# Nodio  
+<div align="center">
+[![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/LemmyNet/lemmy.svg)](https://github.com/LemmyNet/lemmy/releases)
+[![Build Status](https://woodpecker.join-lemmy.org/api/badges/LemmyNet/lemmy/status.svg)](https://woodpecker.join-lemmy.org/LemmyNet/lemmy)
+[![GitHub issues](https://img.shields.io/github/issues-raw/LemmyNet/lemmy.svg)](https://github.com/LemmyNet/lemmy/issues)
+[![Docker Pulls](https://img.shields.io/docker/pulls/dessalines/lemmy.svg)](https://cloud.docker.com/repository/docker/dessalines/lemmy/)
+[![Translation status](http://weblate.join-lemmy.org/widgets/lemmy/-/lemmy/svg-badge.svg)](http://weblate.join-lemmy.org/engage/lemmy/)
+[![License](https://img.shields.io/github/license/LemmyNet/lemmy.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=social)](https://github.com/LemmyNet/lemmy/stargazers)
+</div>
 
-📌 **Versão do Projeto:** 0.0.1
+<p align="center">
+  <span>English</span> |
+  <a href="readmes/README.es.md">Español</a> |
+  <a href="readmes/README.ru.md">Русский</a> |
+  <a href="readmes/README.zh.hans.md">汉语</a> |
+  <a href="readmes/README.zh.hant.md">漢語</a> |
+  <a href="readmes/README.ja.md">日本語</a>
+</p>
 
-## 📖 Sobre o Projeto  
-O **Nodio** é uma plataforma de **versionamento de diagramas** integrada ao fluxo de desenvolvimento de software.  
-Seu objetivo é facilitar a colaboração entre equipes, mantendo diagramas atualizados e conectados diretamente ao código do projeto.  
+<p align="center">
+  <a href="https://join-lemmy.org/" rel="noopener">
+ <img width=200px height=200px src="https://github.com/pedrohcdsouza/nodio/blob/main/nodio.svg"></a>
 
-Com o Nodio, é possível:  
-- Versionar diagramas automaticamente.  
-- Sincronizar alterações com repositórios Git.  
-- Atualizar código a partir de diagramas, reduzindo esforço manual.  
-- Centralizar a organização e evolução visual de projetos de software.  
-
----
-
-## 🚀 Objetivo Principal  
-O Nodio foi criado para **eliminar a distância entre diagramas e código**, permitindo que equipes desenvolvam sistemas de forma mais ágil, organizada e colaborativa.  
-
----
-
-## 📂 Estrutura do Projeto *(em construção)*  
-A documentação técnica completa (arquitetura, contribuições e guias de uso) será disponibilizada nas próximas versões.  
-
----
-
-## 🛠️ Status do Projeto  
-🔧 **Em desenvolvimento** — funcionalidades iniciais estão sendo definidas e implementadas.  
-
----
-
-## 📌 Próximos Passos  
-- [ ] Implementar versionamento de diagramas.  
-- [ ] Criar integração inicial com GitHub/GitLab.  
-- [ ] Gerar código básico a partir dos diagramas.  
-- [ ] Documentar API e fluxo de instalação.  
-
----
-
-## 📜 Licença  
-Este projeto está sob a licença [MIT](LICENSE).  
+  <p align="center">
+    A link aggregator and forum for the fediverse.
+    <br />
+    <br />
+    <a href="https://join-lemmy.org">Join Lemmy</a>
+    ·
+    <a href="https://join-lemmy.org/docs/index.html">Documentation</a>
+    ·
+    <a href="https://matrix.to/#/#lemmy-space:matrix.org">Matrix Chat</a>
+    ·
+    <a href="https://github.com/LemmyNet/lemmy/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/LemmyNet/lemmy/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/LemmyNet/lemmy/blob/main/RELEASES.md">Releases</a>
+    ·
+    <a href="https://join-lemmy.org/docs/code_of_conduct.html">Code of Conduct</a>
+  </p>
+</p>
