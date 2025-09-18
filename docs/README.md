@@ -42,8 +42,9 @@ Here you will find all diagrams, technical documents, and resources related to t
 
 ## Summary
 
-| Diagram Type          | Diagram Name                     | Link                                  |
+| Artefact Type          | Diagram Name                     | Link                                  |
 |----------------------|---------------------------------|--------------------------------------|
+| Requirements | Vision Document | [View](./vision/vision-document.md) |
 | System Architecture  | System Architecture Diagram       | [View](./system-architecture.png)    |
 | System Architecture  | Deployment Diagram               | [View](./deployment-diagram.svg)     |
 | Database             | ER Diagram                        | [View](./er-diagram.png)             |
