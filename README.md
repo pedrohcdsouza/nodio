@@ -1,4 +1,5 @@
 <div align="center">
+  
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/LemmyNet/lemmy.svg)](https://github.com/LemmyNet/lemmy/releases)
 [![Build Status](https://woodpecker.join-lemmy.org/api/badges/LemmyNet/lemmy/status.svg)](https://woodpecker.join-lemmy.org/LemmyNet/lemmy)
 [![GitHub issues](https://img.shields.io/github/issues-raw/LemmyNet/lemmy.svg)](https://github.com/LemmyNet/lemmy/issues)
@@ -6,6 +7,7 @@
 [![Translation status](http://weblate.join-lemmy.org/widgets/lemmy/-/lemmy/svg-badge.svg)](http://weblate.join-lemmy.org/engage/lemmy/)
 [![License](https://img.shields.io/github/license/LemmyNet/lemmy.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/LemmyNet/lemmy?style=social)](https://github.com/LemmyNet/lemmy/stargazers)
+
 </div>
 
 <p align="center">
