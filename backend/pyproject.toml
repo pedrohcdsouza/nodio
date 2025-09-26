@@ -1,0 +1,39 @@
+[tool.poetry]
+name = "nodio"
+version = "0.0.0"
+description = "Starting Project"
+authors = ["pedrohcdsouza <pedrohcsouza2005@gmail.com>"]
+readme = "README.md"
+
+packages = [
+    { include = "src" }
+]
+
+[custom]
+title = "nodio API"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+django = "5.0"
+djangorestframework = "^3.15.2"
+django-filter = "^24.3"
+djangorestframework-simplejwt = "^5.3.1"
+taskipy = "^1.14.1"
+psycopg2-binary = "^2.9"
+
+[tool.taskipy.tasks]
+run = "python manage.py runserver"
+dev = "task run 0.0.0.0:8000"
+django = "python manage.py"
+
+# MIGRATE
+migrate = "task django migrate"
+makemigrations = "task django makemigrations"
+
+# DEV TOOLs
+admin = "task django createsuperuser"
+app = "task django startapp"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
